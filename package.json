@@ -1,6 +1,6 @@
 {
   "name": "js-function-chain",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "链式执行JavaScript函数",
   "main": "functionChain.js",
   "scripts": {
@@ -13,6 +13,11 @@
 	"typescript",
 	"nodejs"
   ],
+  "homepage": "https://github.com/FANCaipei/jsFunctionChain",
+  "repository": {
+	"type" : "git",
+	"url" : "https://github.com/FANCaipei/jsFunctionChain"
+  },
   "author": "Caipei FAN",
   "license": "ISC"
 }
