@@ -22,8 +22,8 @@ npm i js-function-chain
 
 # import方式：
 
-+ import { chainFunctions } from './functionChain/functionChain.js'; // es6 或者 ts
-+ let chainFunctions = require('./functionChain/functionChainNodejs.js').chainFunctions; // nodejs导入
++ import { chainFunctions } from 'js-function-chain/functionChain.js'; // es6 或者 ts
++ let chainFunctions = require('js-function-chain/functionChainNodejs.js').chainFunctions; // nodejs导入
 + window.chainFunctions; // 传统方式直接使用
 
 
