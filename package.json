@@ -1,6 +1,6 @@
 {
   "name": "js-function-chain",
-  "version": "1.0.2",
+  "version": "1.1.1",
   "description": "链式执行JavaScript函数",
   "main": "functionChain.js",
   "scripts": {
